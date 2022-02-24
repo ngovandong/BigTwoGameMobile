@@ -22,22 +22,21 @@
 
 ## Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can instruct your audience on installing and setting up your app.
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    https://github.com/ngovandong/BigTwoGameMobile
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Install Expo 
+3. Install Expo 
    ```js
    npm install --global expo-cli
    ```
-5. Start
+4. Start
    ```js
    expo start
    ```
